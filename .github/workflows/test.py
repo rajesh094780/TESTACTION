@@ -1,1 +1,2 @@
-print("hello")
+x = ("apple", "banana", "cherry")
+print(x)
